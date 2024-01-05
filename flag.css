@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main-container{
+    background-color: wheat;
+    height:110vh;
+
+}
+
+
+.flag-container{ 
+
+    width:300px;
+    height:180px;
+    background-color: rgba(0, 128, 0, 0.778);
+    position: relative;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+
+.circle{
+    height: 45%;
+    width:25%;
+    background-color: red;
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+    border-radius:100px;
+}
+
+.stand{
+    height:430px;
+    width:15px;
+    /* background-color: black; */
+    position:relative;
+    border-top-right-radius: 96%;
+    border: .1px solid;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.741), rgb(115, 180, 11) );
+}
+
+.stnd{
+    position:absolute;
+    top:100%;
+    left:100%;
+    width:50px;
+    height:30px;
+    background-color:black;
+    transform: translate(-50%, -40%);
+}
