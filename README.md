@@ -7,6 +7,11 @@
 <h2 align="left">Hi 👋! I am Redoan Al Mahmud</h2>
 
 ###
+<p>
+  Hi, I'm Redoan Al Mahmud, a passionate Frontend Web Developer from Bangladesh. I specialize in building responsive, user-friendly web applications using technologies like JavaScript, React, Node.js, MongoDB, and Tailwind CSS. I also have experience working with Express, Firebase, and design tools like Figma.
+</p>
+
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Redoan23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -15,6 +20,10 @@
 </div>
 
 ###
+<br>
+<h3>
+  🛠️ Skills and Tools:
+</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -49,13 +58,14 @@
 </div>
 
 ###
+<br>
+<h3>
+  🌐Social:
+</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/redoanalmahmud23/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="redoan1080@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://web.whatsapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
@@ -72,3 +82,6 @@
 </div>
 
 ###
+<div>
+  <strong>📧Email</strong>: redoan1080@gmail.com
+</div>
