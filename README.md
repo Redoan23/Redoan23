@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47tpq47pv02nsfx6vk2l1z3bo9d6hjbbmw6yrjifq1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="300" width='480' src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47tpq47pv02nsfx6vk2l1z3bo9d6hjbbmw6yrjifq1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
@@ -24,8 +24,6 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="#daisyui-tech" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
