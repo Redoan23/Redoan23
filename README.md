@@ -14,7 +14,7 @@
 <a href="https://twitter.com/redoanrafi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="redoanrafi8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/redoanalmahmud23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redoanalmahmud23" height="30" width="40" /></a>
 </p>
-<div hr width='100%'></div>
+<div divider width='100%'>----</div>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
