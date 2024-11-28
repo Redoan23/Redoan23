@@ -8,7 +8,7 @@
 
 ###
 <p>
-  Hi, I'm Redoan Al Mahmud, a passionate Frontend Web Developer from Bangladesh. I specialize in building responsive, user-friendly web applications using technologies like JavaScript, React, Node.js, MongoDB, and Tailwind CSS. I also have experience working with Express, Firebase, and design tools like Figma.
+  I am a passionate Frontend Web Developer from Bangladesh. I specialize in building responsive, user-friendly web applications using technologies like JavaScript, React, Node.js, MongoDB, and Tailwind CSS. I also have experience working with Express, Firebase, and design tools like Figma.
 </p>
 
 ###
